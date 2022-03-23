@@ -1,0 +1,25 @@
+{
+  "theme_color": "#212121",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "id": "/",
+  "scope": "/",
+  "start_url": "/",
+  "orientation": "portrait",
+  "name": "vite-vanilla-tailwind",
+  "short_name": "vite-vanilla-tailwind",
+  "lang": "en",
+  "dir": "ltr",
+  "categories": [
+    "test"
+  ],
+  "description": "Vite vanilla Tailwind Template.",
+  "icons": [
+    {
+      "src": "/assets/logo.png",
+      "sizes": "1024x404",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
