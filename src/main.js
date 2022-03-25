@@ -2,7 +2,7 @@ import './css/style.css';
 
 // TODO: Uncomment the following lines to enable PWA Support
 // // PWAManager
-// import { PWAManager } from './PWAManager';
+// import { PWAManager } from './js/PWAManager';
 // let PWAManagerInstance = new PWAManager({
 //   serviceWorkerPath: './sw.js',
 //   beforeInstallPrompt: () => { },
